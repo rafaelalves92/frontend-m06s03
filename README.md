@@ -3,4 +3,5 @@
 3 - Após concluir a instalação, execute o comando "yarn start" <br>
 4 - Uma página no Link: localhost:3000 abrirá <br>
 
-Obs.: É preciso também clonar o repositório do servidor que está neste Link: https://github.com/rafaelalves92/backend-contacts
+Obs.: É preciso também clonar o repositório do servidor que está neste Link: https://github.com/rafaelalves92/backend-contacts <br>
+Obs2.: Ao realizar o login é preciso clicar duas vezes no botão "Entrar"
